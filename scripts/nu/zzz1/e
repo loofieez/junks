@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+sops -e -i zzz1.nu
+sops -e -i zzz1.0.nu
+sops -e -i zzz1.1.nu
+sops -e -i zzz1.2.nu
+sops -e -i zzz1.3.diff
+sops -e -i zzz1.4.nu

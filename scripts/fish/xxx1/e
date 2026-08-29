@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+sops -e -i xxx1.fish
+sops -e -i xxx1.0.fish
+sops -e -i xxx1.1.fish
+sops -e -i xxx1.2.fish
